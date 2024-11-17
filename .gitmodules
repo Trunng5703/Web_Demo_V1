@@ -1,0 +1,6 @@
+[submodule "edupress-frontend"]
+	path = edupress-frontend
+	url = https://github.com/Trunng5703/Web_Demo_V1.git
+[submodule "edupress-server"]
+	path = edupress-server
+	url = https://github.com/Trunng5703/Web_Demo_V1.git
